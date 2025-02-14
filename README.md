@@ -90,3 +90,6 @@ Among the several advantages that reactJS has, there are several disadvantages t
 2. Rapid development may cause compatibility issues with previous versions
 3. JSX as a barrier, if developers are used to HTML, they need to adapt to JSX syntax.
 4. React applications depend on third-party libraries, if there are too many third-party dependencies, it can slow down development time and increase security vulnerabilities.
+
+Note:
+Hi sir Juwono
